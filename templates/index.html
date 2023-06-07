@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credit Card Limit Prediction</title>
+</head>
+<body>
+    <style>
+    body{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ18d9bwel87jIGPC480Y-gi3ExYO1-0TFC1Q&usqp=CAU");
+    height:50vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;}
+    </style>
+    <head>
+<body>
+    <h1> <center> </center></h1>
+   
+    
+    <h1> "Credit Card Approval and Limit"</h1>
+
+
+    <form method=" GET" action="/predict_credit_limit">
+
+        <label>Age:</label>
+        <input type="text"  name="Age">
+        </select>
+
+        <br>
+        <br>
+
+        <label>Gender:</label>
+        <label for = "Gender">
+        <select name = "Gender" id = "Gender">
+                <option value = 'Male'>Male</option>
+                <option value = 'Female'>Female</option>
+            </select>
+
+        <br>
+        <br>
+
+        <label>Income:</label>
+        <input type="text"  name="Income">
+        </select>
+
+        <br>
+        <br>
+
+
+        <label>Education:</label>
+        <label for = "Education">
+        <select name = "Education" id = "Education">
+                <option value = "Bachelor's Degree">Bachelor's Degree</option>
+                <option value = "Master's Degree">Master's Degree</option>
+                <option value = 'High School Diploma'>High School Diploma</option>
+                <option value = 'Doctorate'>Doctorate</option>
+                <option value = "Associate's Degree">Associate's Degree</option>
+            </select>
+
+        <br>
+        <br>
+
+
+        <label>Marital Status:</label>
+        <label for = "Marital_Status">
+        <select name = "Marital_Status" id = "Marital_Status">
+                <option value = 'Married'>Married</option>
+                <option value = 'Single'>Single</option>
+            </select>
+
+        <br>
+        <br>
+
+
+        <label>Number of Children:</label>
+        <input type="text"  name="Number_of_Children">
+        </select>
+
+        <br>
+        <br>
+
+
+        <label>Home Ownership:</label>
+        <label for = "Home_Ownership">
+        <select name = "Home_Ownership" id = "Home_Ownership">
+                <option value = 'Owned'>Owned</option>
+                <option value = 'Rented'>Rented</option>
+            </select>
+
+        <br>
+        <br>
+
+        <label>Credit Score:</label>
+        <label for = "Credit_Score">
+        <select name = "Credit_Score" id = "Credit_Score">
+                <option value = 'High'>High</option>
+                <option value = 'Average'>Average</option>
+                <option value = 'Low'>Low</option>
+            </select>
+
+        <br>
+        <br>
+
+        <label>Loan amount:</label>
+        <input type="text"  name="Loan_amount">
+        </select>
+
+        <br>
+        <br>
+
+        <label>EMI:</label>
+        <input type="text"  name="EMI">
+        </select>
+
+        <br>
+        <br>
+
+        <label>Inhand Sallary:</label>
+        <input type="text"  name="Inhand_Sallary">
+        </select>
+
+        <br>
+        <br>
+
+        <input type="submit" value="SUBMIT">
+
+        <br>
+    
+    </form>
+    <p><b> {{prediction}} </b> </p>
+
+</p><br>
+
+
+<h1> <center> "Thank You for Visiting" </center></h1>
+
+</body>
+</html>

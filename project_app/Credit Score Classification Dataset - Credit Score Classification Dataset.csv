@@ -1,0 +1,165 @@
+Age,Gender,Income,Education,Marital Status,Number of Children,Home Ownership,Credit Score,Loan amount,EMI,Inhand Sallary,Eligibility,Credit card limit (T),Range
+25,Female,50000,Bachelor's Degree,Single,0,Rented,High,6000000,16666.67,33333,Approved,125000,1 - 1.5
+30,Male,100000,Master's Degree,Married,2,Owned,High,10000000,33333.33,66667,Approved,250000,1.5 - 3
+35,Female,75000,Doctorate,Married,1,Owned,High,6000000,25000.00,50000,Approved,187500,1.5 - 3
+40,Male,125000,High School Diploma,Single,0,Owned,High,7500000,41666.67,83333,Approved,312500,3 - 4.5
+45,Female,100000,Bachelor's Degree,Married,3,Owned,High,4000000,33333.33,66667,Approved,250000,1.5 - 3
+50,Male,150000,Master's Degree,,0,Owned,High,3000000,50000.00,100000,Approved,375000,3 - 4.5
+26,Female,40000,Associate's Degree,,0,Rented,Average,4640000,13333.33,26667,Rejected,0,0
+31,Male,60000,Bachelor's Degree,Single,0,Rented,Average,5760000,20000.00,40000,Approved,150000,1.5 - 3
+36,Female,80000,Master's Degree,Married,2,Owned,High,6080000,26666.67,53333,Approved,200000,1.5 - 3
+41,Male,105000,Doctorate,Single,0,Owned,High,5880000,35000.00,70000,Approved,262500,1.5 - 3
+46,Female,90000,High School Diploma,,1,Owned,High,3240000,30000.00,60000,Approved,225000,1.5 - 3
+51,Male,135000,Bachelor's Degree,Married,0,Owned,High,2160000,45000.00,90000,Approved,337500,3 - 4.5
+27,Female,35000,High School Diploma,Single,0,Rented,Low,1120000,11666.67,23333,Rejected,0,0
+32,Male,55000,Associate's Degree,Single,0,Rented,Average,5060000,18333.33,36667,Approved,137500,1 - 1.5
+37,Female,70000,Bachelor's Degree,Married,2,Owned,High,5040000,23333.33,46667,Approved,175000,1.5 - 3
+42,Male,95000,Master's Degree,Single,0,Owned,High,4940000,31666.67,63333,Approved,237500,1.5 - 3
+47,Female,85000,Doctorate,Married,1,Owned,High,2720000,28333.33,56667,Approved,212500,1.5 - 3
+52,Male,125000,High School Diploma,Married,0,Owned,High,1500000,41666.67,83333,Approved,312500,3 - 4.5
+28,Female,30000,Associate's Degree,Single,0,,Low,840000,10000.00,20000,Rejected,0,0
+33,Male,50000,High School Diploma,Single,0,Rented,Average,4400000,16666.67,33333,Rejected,0,0
+38,Female,65000,Bachelor's Degree,Married,2,Owned,High,4420000,21666.67,43333,Approved,162500,1.5 - 3
+43,Male,80000,Master's Degree,Single,0,Owned,High,3840000,26666.67,53333,Approved,200000,1.5 - 3
+48,Female,70000,Doctorate,Married,1,Owned,High,1960000,23333.33,46667,Approved,175000,1.5 - 3
+53,Male,115000,Associate's Degree,,0,Owned,High,920000,38333.33,76667,Approved,287500,1.5 - 3
+29,Female,25000,High School Diploma,,0,Rented,Low,,,25000,Rejected,0,0
+34,Male,45000,Associate's Degree,Single,0,Rented,Average,3780000,15000.00,30000,Rejected,0,0
+39,Female,60000,Bachelor's Degree,Married,2,Owned,High,3840000,20000.00,40000,Approved,150000,1.5 - 3
+44,Male,75000,Master's Degree,Single,0,Owned,High,3300000,25000.00,50000,Approved,187500,1.5 - 3
+49,Female,65000,Doctorate,Married,1,Owned,High,1560000,21666.67,43333,Approved,162500,1.5 - 3
+25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,6600000,18333.33,36667,Approved,137500,1 - 1.5
+30,Male,105000,Master's Degree,,2,Owned,High,10500000,35000.00,70000,Approved,262500,1.5 - 3
+35,Female,80000,Doctorate,,1,Owned,High,6400000,26666.67,53333,Approved,200000,1.5 - 3
+40,Male,130000,High School Diploma,Single,0,Owned,High,7800000,43333.33,86667,Approved,325000,3 - 4.5
+45,Female,105000,Bachelor's Degree,Married,3,Owned,High,4200000,35000.00,70000,Approved,262500,1.5 - 3
+50,Male,155000,Master's Degree,Married,0,Owned,High,3100000,51666.67,103333,Approved,387500,3 - 4.5
+26,Female,45000,Associate's Degree,Single,0,Rented,Average,5220000,15000.00,30000,Rejected,0,0
+31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,6240000,21666.67,43333,Approved,162500,1.5 - 3
+36,Female,85000,Master's Degree,Married,2,Owned,High,6460000,28333.33,56667,Approved,212500,1.5 - 3
+41,Male,110000,Doctorate,Single,0,Owned,High,6160000,36666.67,73333,Approved,275000,1.5 - 3
+46,Female,95000,High School Diploma,Married,1,Owned,High,3420000,31666.67,63333,Approved,237500,1.5 - 3
+51,Male,140000,Bachelor's Degree,Married,0,Owned,High,2240000,46666.67,93333,Approved,350000,3 - 4.5
+27,Female,37500,High School Diploma,Single,0,Rented,Low,,,37500,Rejected,0,0
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,5290000,19166.67,38333,Approved,143750,1 - 1.5
+37,Female,72500,Bachelor's Degree,Married,2,Owned,High,5220000,24166.67,48333,Approved,181250,1.5 - 3
+42,Male,100000,Master's Degree,Single,0,,High,5200000,33333.33,66667,Approved,250000,1.5 - 3
+47,Female,90000,Doctorate,Married,1,Owned,High,2880000,30000.00,60000,Approved,225000,1.5 - 3
+52,Male,130000,High School Diploma,Married,0,Owned,High,1560000,43333.33,86667,Approved,325000,3 - 4.5
+28,Female,32500,Associate's Degree,,0,,Low,910000,10833.33,21667,Rejected,0,0
+33,Male,52500,High School Diploma,Single,0,Rented,Average,4620000,17500.00,35000,Approved,131250,1 - 1.5
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,4590000,22500.00,45000,Approved,168750,1.5 - 3
+43,Male,92500,Master's Degree,Single,0,,High,4440000,30833.33,61667,Approved,231250,1.5 - 3
+48,Female,82500,Doctorate,Married,1,Owned,High,2310000,27500.00,55000,Approved,206250,1.5 - 3
+53,Male,122500,Associate's Degree,Married,0,Owned,High,980000,40833.33,81667,Approved,306250,3 - 4.5
+29,Female,27500,High School Diploma,Single,0,Rented,Low,660000,9166.67,18333,Rejected,0,0
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,3990000,15833.33,31667,Rejected,0,0
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,4000000,20833.33,41667,Approved,156250,1.5 - 3
+44,Male,87500,Master's Degree,Single,0,Owned,High,3850000,29166.67,58333,Approved,218750,1.5 - 3
+49,Female,77500,Doctorate,Married,1,Owned,High,1860000,25833.33,51667,Approved,193750,1.5 - 3
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,6900000,19166.67,38333,Approved,143750,1 - 1.5
+30,Male,112500,Master's Degree,Married,2,,High,11250000,37500.00,75000,Approved,281250,1.5 - 3
+35,Female,85000,Doctorate,Married,1,Owned,High,6800000,28333.33,56667,Approved,212500,1.5 - 3
+25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,7200000,20000.00,40000,Approved,150000,1.5 - 3
+30,Male,117500,Master's Degree,Married,2,Owned,High,11750000,39166.67,78333,Approved,293750,1.5 - 3
+35,Female,90000,Doctorate,Married,1,Owned,High,7200000,30000.00,60000,Approved,225000,1.5 - 3
+40,Male,142500,High School Diploma,Single,0,Owned,High,8550000,47500.00,95000,Approved,356250,3 - 4.5
+45,Female,110000,Bachelor's Degree,Married,3,Owned,High,4400000,36666.67,73333,Approved,275000,1.5 - 3
+50,Male,160000,Master's Degree,Married,0,Owned,High,3200000,53333.33,106667,Approved,400000,3 - 4.5
+26,Female,47500,Associate's Degree,Single,0,Rented,Average,5510000,15833.33,31667,Rejected,0,0
+31,Male,67500,Bachelor's Degree,Single,0,Rented,Average,6480000,22500.00,45000,Approved,168750,1.5 - 3
+36,Female,90000,Master's Degree,Married,2,Owned,High,6840000,30000.00,60000,Approved,225000,1.5 - 3
+41,Male,115000,Doctorate,Single,0,,High,6440000,38333.33,76667,Approved,287500,1.5 - 3
+46,Female,97500,High School Diploma,Married,1,Owned,High,3510000,32500.00,65000,Approved,243750,1.5 - 3
+51,Male,145000,Bachelor's Degree,Married,0,Owned,High,2320000,48333.33,96667,Approved,362500,3 - 4.5
+27,Female,37500,High School Diploma,Single,0,,Low,1200000,12500.00,25000,Rejected,0,0
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,5290000,19166.67,38333,Approved,143750,1 - 1.5
+37,Female,75000,Bachelor's Degree,,2,Owned,High,5400000,25000.00,50000,Approved,187500,1.5 - 3
+42,Male,105000,Master's Degree,Single,0,Owned,High,5460000,35000.00,70000,Approved,262500,1.5 - 3
+47,Female,95000,Doctorate,Married,1,Owned,High,3040000,31666.67,63333,Approved,237500,1.5 - 3
+52,Male,135000,High School Diploma,Married,0,Owned,High,1620000,45000.00,90000,Approved,337500,3 - 4.5
+28,Female,32500,Associate's Degree,,0,Rented,Low,,,32500,Rejected,0,0
+33,Male,52500,High School Diploma,Single,0,Rented,Average,4620000,17500.00,35000,Approved,131250,1 - 1.5
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,4590000,22500.00,45000,Approved,168750,1.5 - 3
+43,Male,92500,Master's Degree,Single,0,Owned,High,4440000,30833.33,61667,Approved,231250,1.5 - 3
+48,Female,85000,Doctorate,Married,1,Owned,High,2380000,28333.33,56667,Approved,212500,1.5 - 3
+53,Male,125000,Associate's Degree,Married,0,Owned,High,1000000,41666.67,83333,Approved,312500,3 - 4.5
+29,Female,27500,High School Diploma,Single,0,Rented,Low,660000,9166.67,18333,Rejected,0,0
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,3990000,15833.33,31667,Rejected,0,0
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,4000000,20833.33,41667,Approved,156250,1.5 - 3
+44,Male,87500,Master's Degree,Single,0,Owned,High,3850000,29166.67,58333,Approved,218750,1.5 - 3
+49,Female,77500,Doctorate,Married,1,,High,1860000,25833.33,51667,Approved,193750,1.5 - 3
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,6900000,19166.67,38333,Approved,143750,1 - 1.5
+30,Male,112500,Master's Degree,Married,2,Owned,High,11250000,37500.00,75000,Approved,281250,1.5 - 3
+35,Female,85000,Doctorate,Married,1,Owned,High,6800000,28333.33,56667,Approved,212500,1.5 - 3
+25,Female,62500,Bachelor's Degree,Single,0,Rented,Average,7500000,20833.33,41667,Approved,156250,1.5 - 3
+30,Male,117500,Master's Degree,Married,2,Owned,High,11750000,39166.67,78333,Approved,293750,1.5 - 3
+35,Female,90000,Doctorate,Married,1,Owned,High,7200000,30000.00,60000,Approved,225000,1.5 - 3
+40,Male,142500,High School Diploma,Single,0,Owned,High,8550000,47500.00,95000,Approved,356250,3 - 4.5
+45,Female,115000,Bachelor's Degree,Married,3,Owned,High,4600000,38333.33,76667,Approved,287500,1.5 - 3
+50,Male,162500,Master's Degree,Married,0,Owned,High,3250000,54166.67,108333,Approved,406250,3 - 4.5
+26,Female,50000,Associate's Degree,Single,0,Rented,Average,5800000,16666.67,33333,Rejected,0,0
+31,Male,70000,Bachelor's Degree,Single,0,Rented,Average,6720000,23333.33,46667,Approved,175000,1.5 - 3
+36,Female,95000,Master's Degree,Married,2,Owned,High,7220000,31666.67,63333,Approved,237500,1.5 - 3
+41,Male,120000,Doctorate,Single,0,Owned,High,6720000,40000.00,80000,Approved,300000,1.5 - 3
+46,Female,102500,High School Diploma,Married,1,Owned,High,3690000,34166.67,68333,Approved,256250,1.5 - 3
+51,Male,150000,Bachelor's Degree,,0,Owned,High,2400000,50000.00,100000,Approved,375000,3 - 4.5
+27,Female,37500,High School Diploma,Single,0,Rented,Low,1200000,12500.00,25000,Rejected,0,0
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,5290000,19166.67,38333,Approved,143750,1 - 1.5
+37,Female,77500,Bachelor's Degree,Married,2,Owned,High,5580000,25833.33,51667,Approved,193750,1.5 - 3
+42,Male,110000,Master's Degree,Single,0,Owned,High,5720000,36666.67,73333,Approved,275000,1.5 - 3
+47,Female,97500,Doctorate,Married,1,Owned,High,3120000,32500.00,65000,Approved,243750,1.5 - 3
+52,Male,137500,High School Diploma,Married,0,Owned,High,1650000,45833.33,91667,Approved,343750,3 - 4.5
+28,Female,32500,Associate's Degree,Single,0,,Low,910000,10833.33,21667,Rejected,0,0
+33,Male,52500,High School Diploma,Single,0,Rented,Average,4620000,17500.00,35000,Approved,131250,1 - 1.5
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,4590000,22500.00,45000,Approved,168750,1.5 - 3
+43,Male,95000,Master's Degree,Single,0,Owned,High,4560000,31666.67,63333,Approved,237500,1.5 - 3
+48,Female,87500,Doctorate,Married,1,Owned,High,2450000,29166.67,58333,Approved,218750,1.5 - 3
+53,Male,127500,Associate's Degree,Married,0,Owned,High,1020000,42500.00,85000,Approved,318750,3 - 4.5
+29,Female,27500,High School Diploma,,0,Rented,Low,,,27500,Rejected,0,0
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,3990000,15833.33,31667,Rejected,0,0
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,4000000,20833.33,41667,Approved,156250,1.5 - 3
+44,Male,87500,Master's Degree,Single,0,Owned,High,3850000,29166.67,58333,Approved,218750,1.5 - 3
+49,Female,77500,Doctorate,Married,1,Owned,High,1860000,25833.33,51667,Approved,193750,1.5 - 3
+25,Female,57500,Bachelor's Degree,Single,0,Rented,Average,6900000,19166.67,38333,Approved,143750,1 - 1.5
+30,Male,112500,Master's Degree,Married,2,Owned,High,11250000,37500.00,75000,Approved,281250,1.5 - 3
+35,Female,85000,Doctorate,Married,1,Owned,High,6800000,28333.33,56667,Approved,212500,1.5 - 3
+25,Female,60000,Bachelor's Degree,Single,0,Rented,Average,7200000,20000.00,40000,Approved,150000,1.5 - 3
+30,Male,117500,Master's Degree,Married,2,Owned,High,11750000,39166.67,78333,Approved,293750,1.5 - 3
+35,Female,90000,Doctorate,Married,1,Owned,High,7200000,30000.00,60000,Approved,225000,1.5 - 3
+28,Male,75000,Bachelor's Degree,Single,0,Rented,Average,8100000,25000.00,50000,Approved,187500,1.5 - 3
+33,Female,82000,Master's Degree,Married,1,Owned,High,7216000,27333.33,54667,Approved,205000,1.5 - 3
+31,Male,95000,Doctorate,Single,0,Rented,High,9120000,31666.67,63333,Approved,237500,1.5 - 3
+26,Female,55000,Bachelor's Degree,Married,1,Owned,Average,6380000,18333.33,36667,Approved,137500,1 - 1.5
+32,Male,85000,Master's Degree,Single,0,Rented,High,7820000,28333.33,56667,Approved,212500,1.5 - 3
+29,Female,68000,Doctorate,Married,2,Owned,Average,7072000,22666.67,45333,Approved,170000,1.5 - 3
+34,Male,105000,Bachelor's Degree,Married,1,Rented,High,8820000,35000.00,70000,Approved,262500,1.5 - 3
+25,Female,55000,Bachelor's Degree,Single,0,Rented,Average,6600000,18333.33,36667,Approved,137500,1 - 1.5
+30,Male,105000,Master's Degree,Married,2,Owned,High,10500000,35000.00,70000,Approved,262500,1.5 - 3
+35,Female,80000,Doctorate,Married,1,Owned,High,6400000,26666.67,53333,Approved,200000,1.5 - 3
+40,Male,130000,High School Diploma,Single,0,Owned,High,7800000,43333.33,86667,Approved,325000,3 - 4.5
+45,Female,105000,Bachelor's Degree,Married,3,Owned,High,4200000,35000.00,70000,Approved,262500,1.5 - 3
+50,Male,155000,Master's Degree,Married,0,Owned,High,3100000,51666.67,103333,Approved,387500,3 - 4.5
+26,Female,45000,Associate's Degree,Single,0,Rented,Average,5220000,15000.00,30000,Rejected,0,0
+31,Male,65000,Bachelor's Degree,Single,0,Rented,Average,6240000,21666.67,43333,Approved,162500,1.5 - 3
+36,Female,85000,Master's Degree,Married,2,,High,6460000,28333.33,56667,Approved,212500,1.5 - 3
+41,Male,110000,Doctorate,Single,0,Owned,High,6160000,36666.67,73333,Approved,275000,1.5 - 3
+46,Female,95000,High School Diploma,Married,1,Owned,High,3420000,31666.67,63333,Approved,237500,1.5 - 3
+51,Male,140000,Bachelor's Degree,Married,0,Owned,High,2240000,46666.67,93333,Approved,350000,3 - 4.5
+27,Female,37500,High School Diploma,Single,0,Rented,Low,1200000,12500.00,25000,Rejected,0,0
+32,Male,57500,Associate's Degree,Single,0,Rented,Average,5290000,19166.67,38333,Approved,143750,1 - 1.5
+37,Female,72500,Bachelor's Degree,Married,2,Owned,High,5220000,24166.67,48333,Approved,181250,1.5 - 3
+42,Male,100000,Master's Degree,Single,0,Owned,High,5200000,33333.33,66667,Approved,250000,1.5 - 3
+47,Female,90000,Doctorate,Married,1,Owned,High,2880000,30000.00,60000,Approved,225000,1.5 - 3
+52,Male,130000,High School Diploma,,0,Owned,High,1560000,43333.33,86667,Approved,325000,3 - 4.5
+28,Female,32500,Associate's Degree,Single,0,Rented,Low,910000,10833.33,21667,Rejected,0,0
+33,Male,52500,High School Diploma,Single,0,Rented,Average,4620000,17500.00,35000,Approved,131250,1 - 1.5
+38,Female,67500,Bachelor's Degree,Married,2,Owned,High,4590000,22500.00,45000,Approved,168750,1.5 - 3
+43,Male,92500,Master's Degree,Single,0,Owned,High,4440000,30833.33,61667,Approved,231250,1.5 - 3
+48,Female,82500,Doctorate,Married,1,Owned,High,2310000,27500.00,55000,Approved,206250,1.5 - 3
+53,Male,122500,Associate's Degree,Married,0,Owned,High,980000,40833.33,81667,Approved,306250,3 - 4.5
+29,Female,27500,High School Diploma,Single,0,Rented,Low,,,27500,Rejected,0,0
+34,Male,47500,Associate's Degree,Single,0,Rented,Average,3990000,15833.33,31667,Rejected,0,0
+39,Female,62500,Bachelor's Degree,Married,2,Owned,High,4000000,20833.33,41667,Approved,156250,1.5 - 3
+44,Male,87500,Master's Degree,Single,0,Owned,High,3850000,29166.67,58333,Approved,218750,1.5 - 3
+49,Female,77500,Doctorate,Married,1,Owned,High,1860000,25833.33,51667,Approved,193750,1.5 - 3
