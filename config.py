@@ -1,7 +1,7 @@
 import os 
 
 HOST = '0.0.0.0'
-PORT = 5000
+PORT = 8080
 
 MODEL_FILE_PATH = os.path.join("project_app","credit_card_limit_prediction.pkl")
 
